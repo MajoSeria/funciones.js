@@ -59,9 +59,6 @@ const esPar = function(numero) {
 
 // 4. Funciones Flecha
 // 4.1 Convierte la siguiente función en una función flecha llamada multiplicarFlecha:
-// function multiplicar(a, b) {
-//     return a * b;
-// }
 const multiplicarFlecha= (a,b) =>{
     return a*b
 }
